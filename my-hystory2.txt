@@ -6,3 +6,5 @@ Itś your history.
 Other line in your history.
 
 Master 1
+
+Master 2
